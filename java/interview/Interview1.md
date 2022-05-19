@@ -6,7 +6,7 @@ Questions of interview
       answer
 
       controller | rest controller
-            --- | ---
+      --- | ---
       you can return a page | only rest operations
 
         - references:
