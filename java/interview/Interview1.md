@@ -22,6 +22,8 @@ service/cars/
 
 3. list operations java
 
+what are a functional interface?
+
 - filter
 - order
 
