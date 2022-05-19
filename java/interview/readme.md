@@ -2,16 +2,17 @@
 Questions of interview
 
 1. about spring 
-   - Diferences between controller and rest controller
-
-    controller | rest controller
-    --- | ---
-    you can return a page | only rest operations 
+   - what are diferences between controller and rest controller? 
+      answer
+      
+      controller | rest controller
+      --- | ---
+      you can return a page | only rest operations 
 
       - references:
         - https://www.geeksforgeeks.org/difference-between-controller-and-restcontroller-annotation-in-spring/
-        
-    - what is spring and what is spring boot
+   
+    - what is spring and what is spring boot?
 
 
 2. create a rest api
