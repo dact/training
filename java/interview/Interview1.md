@@ -27,4 +27,6 @@ what are a functional interface?
 - filter
 - order
 
+4. Which Exceptions you know?
+
 
