@@ -1,8 +1,8 @@
-4. Devops
+1. Devops
 - pipeline
 - CI
 - CD
 
-5. infraestructura as code
+2. infraestructura as code
     - terraform
     - cloudformation
